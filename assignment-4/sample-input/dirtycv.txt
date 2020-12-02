@@ -1,0 +1,46 @@
+CV 1
+Surname:Smith
+First Name:John
+Address:1 Whatever Street
+Qualification:Degree in Computer Science
+Position:Data Analyst
+Experience:5
+Position:Computer programmer
+Experience:2
+eMail:smithj@gmail.com
+End
+CV 2
+Surname:Harrison
+FirstName:Jane
+Qualification:None
+eMail:harrisonj@gmail.com
+End
+CV 3
+Surname:Jones
+First Name:Richard
+Address:2 Whatever Street
+Qualification:Masters in Computer Science
+Position:Operator
+Experience:10
+Position:Computer programmer
+Experience:2
+eMail:jonesr@gmail.com
+End
+CV 4
+Surname:Ngomi
+FirstName:Mary
+Address:3 Whatever Street
+Qualification:Degree in Computer Science
+Position:Programmer
+Experience:10
+eMail:ngomim@gmail.com
+End
+CV 5
+Surname:Chen
+First Name:Chris
+Address:4 Whatever Street
+Qualification:Masters in Computer Science
+Position:Programmer
+Experience:7
+eMail:chenc@gmail.com
+End
