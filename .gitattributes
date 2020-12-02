@@ -1,0 +1,3 @@
+# Specify diff drivers
+*.java  diff=java
+*.md    diff=markdown

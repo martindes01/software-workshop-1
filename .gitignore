@@ -1,0 +1,12 @@
+# Ignore Eclipse configuration files
+.settings/
+.classpath
+.project
+
+# Ignore Eclipse output directory
+bin/
+
+# Ignore miscellaneous work files
+_resources/
+project-templates/
+quiz.pdf
