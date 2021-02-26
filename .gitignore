@@ -9,5 +9,6 @@ bin/
 # Ignore miscellaneous work files
 _resources/
 project-templates/
+feedback.pdf
 quiz.pdf
 *.zip
