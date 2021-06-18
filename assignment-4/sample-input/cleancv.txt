@@ -1,0 +1,5 @@
+Smith0001,Degree in Computer Science,Data Analyst,5,Computer programmer,2,smithj@gmail.com,
+Harrison0002,None,harrisonj@gmail.com,
+Jones0003,Masters in Computer Science,Operator,10,Computer programmer,2,jonesr@gmail.com,
+Ngomi0004,Degree in Computer Science,Programmer,10,ngomim@gmail.com,
+Chen0005,Masters in Computer Science,Programmer,7,chenc@gmail.com,
